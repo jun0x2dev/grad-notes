@@ -18,8 +18,37 @@
 
 #### [소셜미디어데이터분석](./2026-1/social-media-analytics)
 
+- [3주차: 그래프를 어떻게 돌아다니고, 가장 짧은 길은 어떻게 찾는가](./2026-1/social-media-analytics/03-graph-types-and-graph-algorithms.md)
+- [4주차: 최대 플로우를 구하고, 누가 중요한 노드인지 재기 시작하다](./2026-1/social-media-analytics/04-max-flow-matching-and-centrality.md)
+- [6주차: 연결해 주는 노드와 빨리 닿는 노드, 그리고 친구 관계의 패턴](./2026-1/social-media-analytics/06-betweenness-closeness-and-linking-patterns.md)
+- [7주차: 두 노드가 얼마나 닮았는가, 그리고 소셜 네트워크를 가짜로 만들어 보기](./2026-1/social-media-analytics/07-node-similarity-and-random-graphs.md)
+- [9주차: 랜덤 그래프로는 부족해서 스몰 월드와 선호적 연결이 나왔다](./2026-1/social-media-analytics/09-network-models-and-data-mining-intro.md)
+- [11주차: 분류 기법 세 가지와, 친구가 샀으면 나도 살 확률이 높다](./2026-1/social-media-analytics/11-classification-and-relational-neighbor.md)
+- [12주차: 정답이 없는 학습은 어떻게 묶고, 어떻게 평가하는가](./2026-1/social-media-analytics/12-evaluation-and-clustering.md)
+- [13주차: 커뮤니티란 무엇이고, 클릭에서 출발해 어디까지 느슨하게 볼 것인가](./2026-1/social-media-analytics/13-community-analysis-and-member-based-detection.md)
+- [14주차: 그래프를 어디서 자르면 커뮤니티가 되는가, 컷과 스펙트럴 클러스터링](./2026-1/social-media-analytics/14-group-based-detection-and-spectral-clustering.md)
+- [15주차: 모듈성, 계층적 분할, 그리고 커뮤니티를 어떻게 평가하는가](./2026-1/social-media-analytics/15-modularity-hierarchical-and-community-evaluation.md)
+
 #### [소프트웨어공학](./2026-1/software-engineering)
+
+- [1주차: AI가 코드를 써 주는 시대에 소프트웨어 공학은 무엇이 남는가](./2026-1/software-engineering/01-why-software-engineering-in-the-ai-era.md)
+- [3주차: 계획하고, 통제하고, 요구사항을 다루고, 품질과 형상을 관리하는 프로세스](./2026-1/software-engineering/03-project-management-requirements-and-quality-processes.md)
+- [4주차: 바이브 코딩에서 스펙 주도 개발로, 컨텍스트를 어떻게 관리할 것인가](./2026-1/software-engineering/04-vibe-coding-spec-driven-and-context-engineering.md)
+- [6주차: 요구사항은 수집이 아니라 도출이고, 분석은 모델로 한다](./2026-1/software-engineering/06-requirements-quality-model-and-analysis-modeling.md)
+- [7주차: 요구사항을 마무리하고, WBS로 쪼개서 일정과 진척을 관리한다](./2026-1/software-engineering/07-requirements-quality-wbs-estimation-and-schedule.md)
+- [9주차: 계획대로 하는 개발에서 변화를 맞이하는 개발로, 애자일의 갈래](./2026-1/software-engineering/09-agile-xp-scrum-lean-and-kanban.md)
+- [11주차: 개발과 운영 사이의 벽을 없애고, 배포를 별일 아니게 만드는 것](./2026-1/software-engineering/11-devops-continuous-delivery-and-observability.md)
+- [12주차: 플랫폼 엔지니어링과 SRE, 그리고 테스트를 어떻게 정의하고 설계하는가](./2026-1/software-engineering/12-platform-engineering-sre-and-software-testing.md)
+- [13주차: 테스트 케이스를 줄이면서 결함은 더 찾는 설계 기법, 커버리지, 위험 기반 전략](./2026-1/software-engineering/13-test-design-techniques-coverage-and-test-strategy.md)
+- [14주차: 각자의 프로젝트를 심사해 보니 약한 곳은 비슷했다](./2026-1/software-engineering/14-process-assessment-presentations.md)
 
 #### [추천시스템](./2026-1/recommender-systems)
 
 - [1주차: 추천 시스템은 왜 필요하고, 무엇으로 만드는가](./2026-1/recommender-systems/01-intro-and-feedback.md)
+- [2주차: 추천이 잘됐는지는 어떻게 아는가](./2026-1/recommender-systems/02-evaluation.md)
+- [3주차: 순위까지 평가하고, 비슷한 사용자를 찾기 시작하다](./2026-1/recommender-systems/03-ranking-metrics-and-user-based-cf.md)
+- [4주차: 이웃 기반 추천을 손으로 계산해 보고, 왜 느린지 알게 되다](./2026-1/recommender-systems/04-neighborhood-methods-and-clustering.md)
+- [6주차: 유사도를 학습하고, 차원을 줄이고, 그래프로 보다](./2026-1/recommender-systems/06-regression-svd-and-pagerank.md)
+- [7주차: 페이지 랭크의 함정을 피하고, 신경망의 기본을 다지다](./2026-1/recommender-systems/07-pagerank-issues-and-neural-networks.md)
+- [9주차: 데이터를 모델에 넣는 법과 임베딩, 그리고 Word2Vec](./2026-1/recommender-systems/09-feature-encoding-and-word2vec.md)
+- [10주차: 임베딩을 어디에 쓰는가, 그리고 행렬 분해로 평점을 예측하다](./2026-1/recommender-systems/10-autoencoder-and-matrix-factorization.md)
