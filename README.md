@@ -21,3 +21,5 @@
 #### [소프트웨어공학](./2026-1/software-engineering)
 
 #### [추천시스템](./2026-1/recommender-systems)
+
+- [1주차: 추천 시스템은 왜 필요하고, 무엇으로 만드는가](./2026-1/recommender-systems/01-intro-and-feedback.md)
