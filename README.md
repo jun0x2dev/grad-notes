@@ -10,9 +10,28 @@
 
 #### [금융보안 법규 및 정책](./2026-2/financial-security-law)
 
+- [2주차: 금융회사는 어떻게 돈을 벌고, 돈은 어떻게 오가는가](./2026-2/financial-security-law/02-financial-system-and-payment-settlement.md)
+- [3주차: 무엇이 전자금융거래인가](./2026-2/financial-security-law/03-what-is-electronic-financial-transaction.md)
+- [5주차: 사고가 나면 누가 물어주는가](./2026-2/financial-security-law/05-parties-rights-and-liability.md)
+- [6주차: 쪽문이 뚫렸다, AI 해킹과 금융회사의 안전성 의무](./2026-2/financial-security-law/06-safety-obligations-ciso-and-hacking-response.md)
+- [7주차: 라이선스 이후, 감독과 외주 위탁과 IT 경영실태평가](./2026-2/financial-security-law/07-supervision-outsourcing-and-it-evaluation.md)
+- [10주차: 전자금융거래법의 안전성 확보 의무와 망분리](./2026-2/financial-security-law/10-electronic-finance-act-and-network-separation.md)
+
 #### [머신러닝1](./2026-2/machine-learning-1)
 
+- [1주차: 데이터는 어떤 모양이고, 학습과 예측은 무엇인가](./2026-2/machine-learning-1/01-data-types-and-learning.md)
+- [2주차: x와 y의 모양에 따라 모형이 달라지고, 목적 함수를 최소화한다](./2026-2/machine-learning-1/02-models-datasets-and-objective-function.md)
+- [3주차: 너무 잘 맞추면 안 된다, 과적합과 편향-분산 그리고 규제](./2026-2/machine-learning-1/03-overfitting-bias-variance-and-regularization.md)
+- [5주차: 미분해서 0이 안 되면 조금씩 내려간다, 최적화와 경사 하강법](./2026-2/machine-learning-1/05-optimization-gradient-descent-and-statistics.md)
+- [6주차: 회귀 분석은 조건부 평균을 추정하는 것이다](./2026-2/machine-learning-1/06-regression-least-squares-and-gradient-descent.md)
+- [7주차: 신경망은 회귀식을 여러 번 꼬아 놓은 것이다](./2026-2/machine-learning-1/07-neural-network-terms-and-activation-functions.md)
+
 #### [자연언어처리](./2026-2/nlp)
+
+- [2주차: 단어의 의미는 주변 단어가 정한다, 원 핫에서 Word2Vec까지](./2026-2/nlp/02-word-vectors-and-word2vec.md)
+- [3주차: 역전파는 연쇄 법칙을 재사용하는 계산 순서다](./2026-2/nlp/03-backpropagation-and-computation-graph.md)
+- [5주차: RNN이 먼 단어를 잊는 이유와, 게이트와 지름길로 해결한 방법들](./2026-2/nlp/05-vanishing-gradient-lstm-and-residual-connection.md)
+- [6주차: 인코더의 마지막 벡터 하나에 다 담지 말고, 필요할 때 직접 보러 간다](./2026-2/nlp/06-seq2seq-machine-translation-and-attention.md)
 
 ### 2026년 1학기
 
