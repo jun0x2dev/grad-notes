@@ -32,6 +32,7 @@
 - [3주차: 역전파는 연쇄 법칙을 재사용하는 계산 순서다](./2026-2/nlp/03-backpropagation-and-computation-graph.md)
 - [5주차: RNN이 먼 단어를 잊는 이유와, 게이트와 지름길로 해결한 방법들](./2026-2/nlp/05-vanishing-gradient-lstm-and-residual-connection.md)
 - [6주차: 인코더의 마지막 벡터 하나에 다 담지 말고, 필요할 때 직접 보러 간다](./2026-2/nlp/06-seq2seq-machine-translation-and-attention.md)
+- [10주차: 순환을 걷어내고 셀프 어텐션만 남기면 세 가지 구멍이 생긴다](./2026-2/nlp/10-self-attention-and-transformer-decoder.md)
 
 ### 2026년 1학기
 
