@@ -16,6 +16,7 @@
 - [6주차: 쪽문이 뚫렸다, AI 해킹과 금융회사의 안전성 의무](./2026-2/financial-security-law/06-safety-obligations-ciso-and-hacking-response.md)
 - [7주차: 라이선스 이후, 감독과 외주 위탁과 IT 경영실태평가](./2026-2/financial-security-law/07-supervision-outsourcing-and-it-evaluation.md)
 - [10주차: 전자금융거래법의 안전성 확보 의무와 망분리](./2026-2/financial-security-law/10-electronic-finance-act-and-network-separation.md)
+- [11주차: 망분리는 예외 절차를 거쳐 풀리다가, AI 때문에 전면 해제로 가고 있다](./2026-2/financial-security-law/11-network-separation-exceptions-deregulation-and-cloud.md)
 
 #### [머신러닝1](./2026-2/machine-learning-1)
 
