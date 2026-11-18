@@ -28,6 +28,7 @@
 - [6주차: 회귀 분석은 조건부 평균을 추정하는 것이다](./2026-2/machine-learning-1/06-regression-least-squares-and-gradient-descent.md)
 - [7주차: 신경망은 회귀식을 여러 번 꼬아 놓은 것이다](./2026-2/machine-learning-1/07-neural-network-terms-and-activation-functions.md)
 - [11주차: CNN은 모든 노드를 잇는 대신 작은 커널 하나를 옮겨 가며 재사용한다](./2026-2/machine-learning-1/11-deep-learning-background-and-convolution.md)
+- [12주차: 채널마다 커널을 곱해 더하고, 풀링으로 줄이고, 마지막에 완전 연결로 분류한다](./2026-2/machine-learning-1/12-multichannel-convolution-pooling-and-cnn-architectures.md)
 
 #### [자연언어처리](./2026-2/nlp)
 
