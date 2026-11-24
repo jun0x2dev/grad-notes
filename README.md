@@ -30,6 +30,7 @@
 - [7주차: 신경망은 회귀식을 여러 번 꼬아 놓은 것이다](./2026-2/machine-learning-1/07-neural-network-terms-and-activation-functions.md)
 - [11주차: CNN은 모든 노드를 잇는 대신 작은 커널 하나를 옮겨 가며 재사용한다](./2026-2/machine-learning-1/11-deep-learning-background-and-convolution.md)
 - [12주차: 채널마다 커널을 곱해 더하고, 풀링으로 줄이고, 마지막에 완전 연결로 분류한다](./2026-2/machine-learning-1/12-multichannel-convolution-pooling-and-cnn-architectures.md)
+- [13주차: 진짜와 가짜를 가리는 분별기와 분별기를 속이는 생성기가 번갈아 학습하며 데이터의 분포를 닮아 간다](./2026-2/machine-learning-1/13-gan-adversarial-training-and-minimax-objective.md)
 
 #### [자연언어처리](./2026-2/nlp)
 
