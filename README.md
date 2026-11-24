@@ -18,6 +18,7 @@
 - [10주차: 전자금융거래법의 안전성 확보 의무와 망분리](./2026-2/financial-security-law/10-electronic-finance-act-and-network-separation.md)
 - [11주차: 망분리는 예외 절차를 거쳐 풀리다가, AI 때문에 전면 해제로 가고 있다](./2026-2/financial-security-law/11-network-separation-exceptions-deregulation-and-cloud.md)
 - [12주차: 클라우드에 업무를 맡겨도 책임은 금융회사에 남는다](./2026-2/financial-security-law/12-network-separation-recap-and-cloud-regulation.md)
+- [13주차: 클라우드는 이용 형태에 따라 보고가 갈리고, 개인정보는 동의와 수집 목적이 기준이 된다](./2026-2/financial-security-law/13-cloud-usage-reporting-and-personal-information-protection-act.md)
 
 #### [머신러닝1](./2026-2/machine-learning-1)
 
