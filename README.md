@@ -79,3 +79,4 @@
 - [7주차: 페이지 랭크의 함정을 피하고, 신경망의 기본을 다지다](./2026-1/recommender-systems/07-pagerank-issues-and-neural-networks.md)
 - [9주차: 데이터를 모델에 넣는 법과 임베딩, 그리고 Word2Vec](./2026-1/recommender-systems/09-feature-encoding-and-word2vec.md)
 - [10주차: 임베딩을 어디에 쓰는가, 그리고 행렬 분해로 평점을 예측하다](./2026-1/recommender-systems/10-autoencoder-and-matrix-factorization.md)
+
